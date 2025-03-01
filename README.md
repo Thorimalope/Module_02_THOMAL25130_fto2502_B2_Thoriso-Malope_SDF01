@@ -1,6 +1,6 @@
 # [SDF01] Challenge: My First Repo 🚀
 
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm [Thoriso Malope]
 
 🌱 Beginner Software Developer | 🚀 Excited to Learn & Build
 
@@ -36,6 +36,8 @@
 - 📢 Communication Skills
 - 🎯 Problem-Solving
 - 🚀 Adaptability
+- Hard-workin
+- Persistant
 
 ---
 
@@ -75,7 +77,11 @@ Here are some of my milestone projects (to be updated as I progress!):
 ## 🚀 Fun Fact
 
 💡 I love learning new things and can't wait to build my first website!
-
+🎨 I describe myself as a creative
+🎹 I make beats using FL SRUDIO as my digital audio workstation
+✏️ I draw, but im not as good as I used to be
+📖 I read quite abit of fiction and comics
+✍️ I write short dystopian stories when I get inspired by things iv watched or read, but I wont be publishing any time soon
 ---
 
 ## 🏆 GitHub Stats
