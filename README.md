@@ -6,7 +6,7 @@
 
 ---
 
-## 🎯 About Me
+## 🎯 About Thori
 
 - 💡 I'm currently learning **GitHub and version control** before diving into coding.
 - 🎓 Soon, I'll be exploring **HTML, CSS, and JavaScript**!
