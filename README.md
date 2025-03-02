@@ -73,7 +73,7 @@ Here are some of my milestone projects (to be updated as I progress!):
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/thorimalope)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/thorisomalope)  
-📧 Email: [youremail@example.com](mailto:thorimalope@gmail.com)
+📧 Email: [thorimalope@gmail.com](mailto:thorimalope@gmail.com)
 
 ---
 
