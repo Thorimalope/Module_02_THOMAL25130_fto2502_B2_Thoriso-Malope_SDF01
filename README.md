@@ -37,8 +37,8 @@
 - 📢 Communication Skills
 - 🎯 Problem-Solving
 - 🚀 Adaptability
-- Hard-workin
-- Persistant
+- 📖Hard-working
+- 🫸🏾Persistant
 
 ---
 
