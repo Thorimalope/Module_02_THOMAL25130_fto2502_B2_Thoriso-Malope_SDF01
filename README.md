@@ -10,8 +10,9 @@
 
 - 💡 I'm currently learning **GitHub and version control** before diving into coding.
 - 🎓 Soon, I'll be exploring **HTML, CSS, and JavaScript**!
-- 🤖 I love problem-solving and working on creative projects.
-- 🔥 Looking forward to building my first real-world application.
+- 🤖 Im very very new in the tech space but am eager to learn
+- 🔍 I like taking on challenges that are beyond my scope of knowledge
+- 📡 Im super curious
 
 ---
 
@@ -26,7 +27,7 @@
 **Future Technologies:**
 
 - ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-circle&logo=html5&logoColor=white), ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-circle&logo=css3), ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-circle&logo=javascript)
-- ![React](https://img.shields.io/badge/-React-black?style=flat-circle&logo=react)
+- ![React](https://img.shields.io/badge/-React-black?style=flat-circle&logo=react), ![Python](https://img.shields.io/badge/-Python-black?style=flat-circle&logo=python), ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-circle&logo=typescript) 
 
 ---
 
@@ -63,14 +64,16 @@ Here are some of my milestone projects (to be updated as I progress!):
 - 🚀 Get comfortable using Git and GitHub
 - 🎨 Learn HTML, CSS, and JavaScript
 - 💡 Build real-world projects and collaborate with others
+- 👨🏾‍💻 Become comfortable with coding
+- 📈 Become and excellent student 
 
 ---
 
 ## 📫 Connect with Me
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yourusername)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
-📧 Email: [youremail@example.com](mailto:youremail@example.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/thorimalope)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/thorisomalope)  
+📧 Email: [youremail@example.com](mailto:thorimalope@gmail.com)
 
 ---
 
