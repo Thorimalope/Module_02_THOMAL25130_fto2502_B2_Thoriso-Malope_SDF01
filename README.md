@@ -1,4 +1,4 @@
-# [SDF01] Challenge: My First Repo 🚀
+# [SDF01] Challenge: Thori's SD journey 🚀
 
 # 👋 Hi, I'm [Thoriso Malope]
 
